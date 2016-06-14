@@ -1,0 +1,48 @@
+{
+  "author": {
+    "email": "idingzhiyuan@qq.com",
+    "name": "dingzhiyuan",
+    "url": "https://github.com/dingzhiyuan/"
+  },
+  "bin": {
+    "connect": "connect-cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/dingzhiyuan/connect-cli/issues"
+  },
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "commander": "^2.5.1",
+    "gulp": "3.9.0",
+    "gulp-connect": "2.2.0",
+    "http-proxy-middleware": "0.9.0"
+  },
+  "description": "server connect livereload line tool",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/dingzhiyuan/connect-cli",
+  "keywords": [
+    "connect",
+    "livereload",
+    "cli",
+    "server",
+    "commandline"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "idingzhiyuan@qq.com",
+      "name": "imbigd"
+    }
+  ],
+  "name": "connect-cli",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingzhiyuan/connect-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
